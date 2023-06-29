@@ -1,0 +1,2 @@
+A set of pod and service yaml files to deploy an example voting app which is available at https://github.com/dockersamples/example-voting-app
+It is a part of Kunernetes labs offered by Kodekloud  (https://kodekloud.com/courses/labs-kubernetes-crash-course/)
